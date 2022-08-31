@@ -33,6 +33,8 @@ int main() {
     window->add_element(name_field2);
     window->show();
 
-    cout << r->result_string << endl;
+    // cout << "rows " << window->rows << endl;
+    // cout << "cols " << window->cols << endl;
+    // cout << r->result_string << endl;
 
 }
